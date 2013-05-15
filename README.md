@@ -1,4 +1,4 @@
-Obsidian2-IntelliJ
+Obsidian2-IntelliJ-Android-Studio
 ==================
 
 A color scheme for Intellij Idea, compatible with Android Studio.
