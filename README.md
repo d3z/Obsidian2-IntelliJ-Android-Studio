@@ -3,10 +3,7 @@ Obsidian2-IntelliJ
 
 A color scheme for Intellij Idea, compatible with Android Studio.
 
-Tested on Intellij Idea 12.
-
-Downloads
----------
+Tested on Intellij Idea 12 and Android Studio EAP (0.1).
 
 Installation
 ---------
@@ -15,13 +12,13 @@ Installation
 
     *Mac OS X*
     * `~/Library/Preferences/IntelliJIdea12/colors` (IntelliJ IDEA 12 Ultimate Edition)
+    * `~/Library/Preferences/AndroidStudioPreview/colors` (Android Studio EAP)
     * `~/Library/Preferences/IdeaIC12/colors` (IntelliJ IDEA 12 Community Edition),
-    * `~/Library/Preferences/WebIDE50/colors` (PHPStorm 5.0).
 
     *Windows*
     * `Documents and Settings/<user>/.IdeaIC12/config/colors` (IntelliJ IDEA 12 Community Edition)
         
-2. Restart IntelliJ IDEA
+2. Restart IntelliJ IDEA / Android Studio
 
-3. Go to `Preferences | Editor | Colors & Fonts` and select one of the new 
+3. Go to `Preferences | Editor | Colors & Fonts` and select Obsidian2
 color themes.
